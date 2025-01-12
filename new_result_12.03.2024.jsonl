@@ -1,0 +1,30 @@
+{"task": "task190_snli_classification.json", "shot": 0, "num": 3250, "correct": 0, "acc": 0.0}
+{"task": "task190_snli_classification.json", "shot": 5, "num": 3250, "correct": 1574, "acc": 0.48430769230769233}
+{"task": "task199_mnli_classification.json", "shot": 0, "num": 3250, "correct": 0, "acc": 0.0}
+{"task": "task199_mnli_classification.json", "shot": 5, "num": 3250, "correct": 2044, "acc": 0.6289230769230769}
+
+
+{"task": "task875_emotion_classification.json", "shot": 0, "num": 1615, "correct": 0, "acc": 0.0}
+{"task": "task875_emotion_classification.json", "shot": 5, "num": 1615, "correct": 682, "acc": 0.42229102167182664}
+{"task": "task1447_drug_extraction_ade.json", "shot": 0, "num": 1359, "correct": 19, "acc": 0.013980868285504048}
+{"task": "task1447_drug_extraction_ade.json", "shot": 5, "num": 1359, "correct": 1221, "acc": 0.8984547461368654}
+
+
+{"task": "task1510_evalution_relation_extraction.json", "shot": 0, "num": 3247, "correct": 0, "acc": 0.0}
+{"task": "task1510_evalution_relation_extraction.json", "shot": 5, "num": 3247, "correct": 2333, "acc": 0.7185093932861103}
+
+{"task": "task497_extract_all_numbers_from_list_in_order.json", "shot": 0, "num": 3250, "correct": 0, "acc": 0.0}
+{"task": "task497_extract_all_numbers_from_list_in_order.json", "shot": 5, "num": 3250, "correct": 326, "acc": 0.1003076923076923}
+
+
+{"mod": "GV_trace", "task": "task242", "multiplier": 1.6, "percentage": 0.05, "num": 2997, "correct": 136, "acc": 0.04537871204537871}
+{"mod": "GV_intersect", "task": "task242", "multiplier": 1.4, "percentage": 0.5, "num": 2997, "correct": 646, "acc": 0.21554888221554888}
+
+{"mod": "GV_trace", "task": "task274", "multiplier": 1.8, "percentage": 0.05, "num": 1198, "correct": 438, "acc": 0.3656093489148581}
+{"mod": "GV_intersect", "task": "task274", "multiplier": 2.5, "percentage": 0.15, "num": 1198, "correct": 90, "acc": 0.07512520868113523}
+
+{"mod": "GV_trace", "task": "task190", "multiplier": 1.8, "percentage": 0.2, "num": 3250, "correct": 278, "acc": 0.08553846153846154}
+{"mod": "GV_intersect", "task": "task190", "multiplier": 1.1, "percentage": 0.05, "num": 3250, "correct": 0, "acc": 0.0}
+
+{"mod": "GV_intersect", "task": "task329", "multiplier": 1.1, "percentage": 0.05, "num": 2225, "correct": 0, "acc": 0.0}
+{"mod": "GV_trace", "task": "task274", "multiplier": 1.5, "percentage": 0.1, "num": 1198, "correct": 186, "acc": 0.15525876460767946}

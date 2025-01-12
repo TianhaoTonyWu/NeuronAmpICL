@@ -1,0 +1,11 @@
+{"mod": "GV_trace4", "task": "task242", "multiplier": 1.4, "percentage": 0.35, "num": 2997, "correct": 727, "acc": 0.2425759092425759}
+{"mod": "GV_intersect", "task": "task242", "multiplier": 1.4, "percentage": 0.5, "num": 2997, "correct": 646, "acc": 0.21554888221554888}
+{"mod": "GV_trace0", "task": "task242", "multiplier": 1.6, "percentage": 0.05, "num": 2997, "correct": 136, "acc": 0.04537871204537871}
+
+{"mod": "GV_trace4", "task": "task274", "multiplier": 1.7, "percentage": 0.05, "num": 1198, "correct": 171, "acc": 0.14273789649415694}
+{"mod": "GV_intersect", "task": "task274", "multiplier": 2.5, "percentage": 0.15, "num": 1198, "correct": 90, "acc": 0.07512520868113523}
+{"mod": "GV_trace0", "task": "task274", "multiplier": 1.8, "percentage": 0.05, "num": 1198, "correct": 438, "acc": 0.3656093489148581}
+
+{"mod": "GV_trace4", "task": "task1447", "multiplier": 1.9, "percentage": 0.05, "num": 1359, "correct": 355, "acc": 0.2612214863870493}
+{"mod": "GV_intersect", "task": "task1447", "multiplier": 1.7, "percentage": 0.05, "num": 1359, "correct": 368, "acc": 0.27078734363502577}
+{"mod": "GV_trace0", "task": "task1447", "multiplier": 1.4, "percentage": 0.2, "num": 1359, "correct": 57, "acc": 0.04194260485651214}

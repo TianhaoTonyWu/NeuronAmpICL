@@ -1,0 +1,45 @@
+
+{"Mode": "GV", "Dataset": "gsm", "Task": "ALL", "Multiplier": 1.3, "Percentage": 0.05, "acc": 0.000758150113722517}
+{"Mode": "LAPE", "Dataset": "gsm", "Task": "ALL", "Multiplier": 1.5, "Percentage": 0.05, "acc": 0.002274450341167551}
+{"Mode": "GV_last", "Dataset": "gsm", "Task": "ALL", "Multiplier": 1.2, "Percentage": 0.25, "acc": 0.002274450341167551}
+
+{"Mode": "GV", "Dataset": "gsm", "Task": "ALL", "Multiplier": 1.1, "Percentage": 0.01, "acc": 0.000758150113722517}
+{"Mode": "LAPE", "Dataset": "gsm", "Task": "ALL", "Multiplier": 1.2, "Percentage": 0.02, "acc": 0.003032600454890068}
+{"Mode": "GV_last", "Dataset": "gsm", "Task": "ALL", "Multiplier": 1.1, "Percentage": 0.02, "acc": 0.002274450341167551}
+
+
+
+{"Mode": "GV_last", "Dataset": "sni", "Task": "task242", "Multiplier": 1.5, "Percentage": 0.5, "acc": 0.2699366032699366}
+{"Mode": "LAPE", "Dataset": "sni", "Task": "task242", "Multiplier": 2.0, "Percentage": 0.35, "acc": 0.24024024024024024}
+{"Mode": "GV", "Dataset": "sni", "Task": "task242", "Multiplier": 1.6, "Percentage": 0.5, "acc": 0.004004004004004004}
+{"Mode": "GV_final", "Dataset": "sni", "Task": "task242", "Multiplier": 1.5, "Percentage": 0.25, "acc": 0.1971971971971972}
+
+{"Mode": "GV_last", "Dataset": "sni", "Task": "task274", "Multiplier": 2.0, "Percentage": 0.1, "acc": 0.12030075187969924}
+{"Mode": "GV", "Dataset": "sni", "Task": "task274", "Multiplier": 1.8, "Percentage": 0.05, "acc": 0.3483709273182957}
+{"Mode": "LAPE", "Dataset": "sni", "Task": "task274", "Multiplier": 1.4, "Percentage": 0.1, "acc": 0.013366750208855471}
+{"Mode": "GV_final", "Dataset": "sni", "Task": "task274", "Multiplier": 1.9, "Percentage": 0.1, "acc": 0.2247284878863826}
+
+{"Mode": "GV_last", "Dataset": "sni", "Task": "task1447", "Multiplier": 2.5, "Percentage": 0.05, "acc": 0.45916114790286977}
+{"Mode": "LAPE", "Dataset": "sni", "Task": "task1447", "Multiplier": 2.1, "Percentage": 0.1, "acc": 0.04194260485651214}
+{"Mode": "GV", "Dataset": "sni", "Task": "task1447", "Multiplier": 1.3, "Percentage": 0.25, "acc": 0.033112582781456956}
+{"Mode": "GV_final", "Dataset": "sni", "Task": "task1447", "Multiplier": 1.9, "Percentage": 0.05, "acc": 0.1626195732155997}
+
+{"Mode": "GV_last", "Dataset": "sni", "Task": "task403", "Multiplier": 1.1, "Percentage": 0.4, "acc": 0.08655126498002663}
+{"Mode": "GV", "Dataset": "sni", "Task": "task403", "Multiplier": 2.0, "Percentage": 0.15, "acc": 0.1870838881491345}
+{"Mode": "LAPE", "Dataset": "sni", "Task": "task403", "Multiplier": 1.1, "Percentage": 0.25, "acc": 0.10885486018641811}
+{"Mode": "GV_final", "Dataset": "sni", "Task": "task403", "Multiplier": 1.1, "Percentage": 0.5, "acc": 0.08189081225033289}
+
+{"Mode": "GV", "Dataset": "sni", "Task": "task645", "Multiplier": 2.4, "Percentage": 0.15, "acc": 0.163}
+{"Mode": "GV_last", "Dataset": "sni", "Task": "task645", "Multiplier": 1.6, "Percentage": 0.15, "acc": 0.072}
+{"Mode": "GV_final", "Dataset": "sni", "Task": "task645", "Multiplier": 2.2, "Percentage": 0.05, "acc": 0.12}
+{"Mode": "LAPE", "Dataset": "sni", "Task": "task645", "Multiplier": 2.2, "Percentage": 0.15, "acc": 0.022}
+
+{"Mode": "LAPE", "Dataset": "sni", "Task": "task475", "Multiplier": 2.0, "Percentage": 0.05, "acc": 0.4163076923076923}
+{"Mode": "GV_last", "Dataset": "sni", "Task": "task475", "Multiplier": 1.6, "Percentage": 0.2, "acc": 0.1803076923076923}
+{"Mode": "GV", "Dataset": "sni", "Task": "task475", "Multiplier": 1.6, "Percentage": 0.15, "acc": 0.14953846153846154}
+{"Mode": "GV_final", "Dataset": "sni", "Task": "task475", "Multiplier": 1.5, "Percentage": 0.25, "acc": 0.16738461538461538}
+
+
+
+
+### 1-shot

@@ -1,0 +1,8 @@
+{"mod": "LAPE", "task": "task274", "multiplier": 1.9, "percentage": 0.15, "num": 1198, "correct": 63, "acc": 0.052587646076794656}
+{"mod": "LAPE", "task": "task242", "multiplier": 1.6, "percentage": 0.5, "num": 2997, "correct": 507, "acc": 0.16916916916916916}
+{"mod": "LAPE", "task": "task1447", "multiplier": 2.0, "percentage": 0.05, "num": 1359, "correct": 129, "acc": 0.09492273730684327}
+
+{"mod": "None", "n_shot": 0, "dataset": "gsm", "task": "ALL", "multiplier": 1.0, "percentage": "None", "num": 1319, "correct": 13, "acc": 0.009855951478392721}
+{"mod": "None", "n_shot": 5, "dataset": "gsm", "task": "ALL", "multiplier": 1.0, "percentage": "None", "num": 1319, "correct": 290, "acc": 0.21986353297952996}
+{"mod": "None", "n_shot": 5, "dataset": "gsm", "task": "ALL", "multiplier": 1.0, "percentage": "None", "num": 1319, "correct": 324, "acc": 0.24564063684609552}
+{"mod": "None", "n_shot": 5, "dataset": "gsm", "task": "ALL", "multiplier": 1.0, "percentage": "None", "num": 1319, "correct": 327, "acc": 0.24791508718726307}

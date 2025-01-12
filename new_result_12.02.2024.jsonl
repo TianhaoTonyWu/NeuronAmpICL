@@ -1,0 +1,134 @@
+{"mode": "GV_intersect", "subject": "formal_logic", "multiplier": 1.1, "percentage": 0.05, "num": 63, "correct": 19, "acc": 0.30158730158730157}
+{"mode": "GV_intersect", "subject": "high_school_european_history", "multiplier": 1.2, "percentage": 0.05, "num": 83, "correct": 42, "acc": 0.5060240963855421}
+{"mode": "GV_intersect", "subject": "high_school_us_history", "multiplier": 1.2, "percentage": 0.1, "num": 102, "correct": 49, "acc": 0.4803921568627451}
+{"mode": "GV_intersect", "subject": "high_school_world_history", "multiplier": 1.2, "percentage": 0.05, "num": 119, "correct": 56, "acc": 0.47058823529411764}
+{"mode": "GV_intersect", "subject": "international_law", "multiplier": 1.1, "percentage": 0.05, "num": 61, "correct": 29, "acc": 0.47540983606557374}
+{"mode": "GV_intersect", "subject": "jurisprudence", "multiplier": 1.1, "percentage": 0.15, "num": 54, "correct": 27, "acc": 0.5}
+{"mode": "GV_intersect", "subject": "logical_fallacies", "multiplier": 1.4, "percentage": 0.05, "num": 82, "correct": 28, "acc": 0.34146341463414637}
+{"mode": "GV_intersect", "subject": "moral_disputes", "multiplier": 1.3, "percentage": 0.1, "num": 173, "correct": 66, "acc": 0.3815028901734104}
+{"mode": "GV_intersect", "subject": "moral_scenarios", "multiplier": 1.1, "percentage": 0.1, "num": 448, "correct": 110, "acc": 0.24553571428571427}
+{"mode": "GV_intersect", "subject": "philosophy", "multiplier": 1.1, "percentage": 0.2, "num": 156, "correct": 61, "acc": 0.391025641025641}
+{"mode": "GV_intersect", "subject": "prehistory", "multiplier": 1.1, "percentage": 0.1, "num": 162, "correct": 59, "acc": 0.36419753086419754}
+{"mode": "GV_intersect", "subject": "professional_law", "multiplier": 1.2, "percentage": 0.05, "num": 767, "correct": 218, "acc": 0.2842242503259452}
+{"mode": "GV_intersect", "subject": "world_religions", "multiplier": 1.5, "percentage": 0.1, "num": 86, "correct": 43, "acc": 0.5}
+{"mode": "GV_intersect", "subject": "anatomy", "multiplier": 1.1, "percentage": 0.15, "num": 68, "correct": 29, "acc": 0.4264705882352941}
+{"mode": "GV_intersect", "subject": "business_ethics", "multiplier": 1.1, "percentage": 0.05, "num": 50, "correct": 19, "acc": 0.38}
+{"mode": "GV_intersect", "subject": "clinical_knowledge", "multiplier": 1.1, "percentage": 0.15, "num": 133, "correct": 59, "acc": 0.44360902255639095}
+{"mode": "GV_intersect", "subject": "college_medicine", "multiplier": 1.1, "percentage": 0.05, "num": 87, "correct": 27, "acc": 0.3103448275862069}
+{"mode": "GV_intersect", "subject": "global_facts", "multiplier": 1.2, "percentage": 0.25, "num": 50, "correct": 16, "acc": 0.32}
+{"mode": "GV_intersect", "subject": "human_aging", "multiplier": 1.2, "percentage": 0.1, "num": 112, "correct": 53, "acc": 0.4732142857142857}
+{"mode": "GV_intersect", "subject": "management", "multiplier": 1.1, "percentage": 0.05, "num": 52, "correct": 19, "acc": 0.36538461538461536}
+{"mode": "GV_intersect", "subject": "marketing", "multiplier": 1.1, "percentage": 0.1, "num": 117, "correct": 71, "acc": 0.6068376068376068}
+{"mode": "GV_intersect", "subject": "medical_genetics", "multiplier": 1.2, "percentage": 0.05, "num": 50, "correct": 19, "acc": 0.38}
+{"mode": "GV_intersect", "subject": "miscellaneous", "multiplier": 1.1, "percentage": 0.15, "num": 392, "correct": 236, "acc": 0.6020408163265306}
+{"mode": "GV_intersect", "subject": "nutrition", "multiplier": 1.1, "percentage": 0.35, "num": 153, "correct": 46, "acc": 0.3006535947712418}
+{"mode": "GV_intersect", "subject": "professional_accounting", "multiplier": 1.1, "percentage": 0.05, "num": 141, "correct": 42, "acc": 0.2978723404255319}
+{"mode": "GV_intersect", "subject": "professional_medicine", "multiplier": 1.2, "percentage": 0.5, "num": 136, "correct": 38, "acc": 0.27941176470588236}
+{"mode": "GV_intersect", "subject": "virology", "multiplier": 1.1, "percentage": 0.05, "num": 83, "correct": 27, "acc": 0.3253012048192771}
+{"mode": "GV_intersect", "subject": "econometrics", "multiplier": 1.1, "percentage": 0.25, "num": 57, "correct": 13, "acc": 0.22807017543859648}
+{"mode": "GV_intersect", "subject": "high_school_geography", "multiplier": 1.2, "percentage": 0.05, "num": 99, "correct": 40, "acc": 0.40404040404040403}
+{"mode": "GV_intersect", "subject": "high_school_government_and_politics", "multiplier": 1.2, "percentage": 0.45, "num": 97, "correct": 44, "acc": 0.4536082474226804}
+{"mode": "GV_intersect", "subject": "high_school_macroeconomics", "multiplier": 1.2, "percentage": 0.35, "num": 195, "correct": 50, "acc": 0.2564102564102564}
+{"mode": "GV_intersect", "subject": "high_school_microeconomics", "multiplier": 1.1, "percentage": 0.35, "num": 119, "correct": 32, "acc": 0.2689075630252101}
+{"mode": "GV_intersect", "subject": "high_school_psychology", "multiplier": 1.1, "percentage": 0.45, "num": 273, "correct": 120, "acc": 0.43956043956043955}
+{"mode": "GV_intersect", "subject": "human_sexuality", "multiplier": 1.1, "percentage": 0.1, "num": 66, "correct": 23, "acc": 0.3484848484848485}
+{"mode": "GV_intersect", "subject": "professional_psychology", "multiplier": 1.1, "percentage": 0.2, "num": 306, "correct": 108, "acc": 0.35294117647058826}
+{"mode": "GV_intersect", "subject": "public_relations", "multiplier": 1.1, "percentage": 0.45, "num": 55, "correct": 26, "acc": 0.4727272727272727}
+{"mode": "GV_intersect", "subject": "security_studies", "multiplier": 1.1, "percentage": 0.45, "num": 123, "correct": 29, "acc": 0.23577235772357724}
+{"mode": "GV_intersect", "subject": "sociology", "multiplier": 1.2, "percentage": 0.05, "num": 101, "correct": 41, "acc": 0.40594059405940597}
+{"mode": "GV_intersect", "subject": "us_foreign_policy", "multiplier": 1.1, "percentage": 0.35, "num": 50, "correct": 25, "acc": 0.5}
+{"mode": "GV_intersect", "subject": "abstract_algebra", "multiplier": 1.8, "percentage": 0.3, "num": 50, "correct": 9, "acc": 0.18}
+{"mode": "GV_intersect", "subject": "astronomy", "multiplier": 1.1, "percentage": 0.2, "num": 76, "correct": 26, "acc": 0.34210526315789475}
+{"mode": "GV_intersect", "subject": "college_biology", "multiplier": 1.3, "percentage": 0.05, "num": 72, "correct": 28, "acc": 0.3888888888888889}
+{"mode": "GV_intersect", "subject": "college_chemistry", "multiplier": 1.1, "percentage": 0.05, "num": 50, "correct": 6, "acc": 0.12}
+{"mode": "GV_intersect", "subject": "college_computer_science", "multiplier": 1.3, "percentage": 0.1, "num": 50, "correct": 14, "acc": 0.28}
+{"mode": "GV_intersect", "subject": "college_mathematics", "multiplier": 1.7, "percentage": 0.25, "num": 50, "correct": 12, "acc": 0.24}
+{"mode": "GV_intersect", "subject": "college_physics", "multiplier": 1.2, "percentage": 0.45, "num": 51, "correct": 7, "acc": 0.13725490196078433}
+{"mode": "GV_intersect", "subject": "computer_security", "multiplier": 1.1, "percentage": 0.15, "num": 50, "correct": 24, "acc": 0.48}
+{"mode": "GV_intersect", "subject": "conceptual_physics", "multiplier": 1.6, "percentage": 0.2, "num": 118, "correct": 37, "acc": 0.3135593220338983}
+{"mode": "GV_intersect", "subject": "electrical_engineering", "multiplier": 1.6, "percentage": 0.1, "num": 73, "correct": 21, "acc": 0.2876712328767123}
+{"mode": "GV_intersect", "subject": "elementary_mathematics", "multiplier": 1.2, "percentage": 0.2, "num": 189, "correct": 50, "acc": 0.26455026455026454}
+{"mode": "GV_intersect", "subject": "high_school_biology", "multiplier": 1.1, "percentage": 0.15, "num": 155, "correct": 60, "acc": 0.3870967741935484}
+{"mode": "GV_intersect", "subject": "high_school_chemistry", "multiplier": 1.2, "percentage": 0.2, "num": 102, "correct": 25, "acc": 0.24509803921568626}
+{"mode": "GV_intersect", "subject": "high_school_computer_science", "multiplier": 1.1, "percentage": 0.05, "num": 50, "correct": 14, "acc": 0.28}
+{"mode": "GV_intersect", "subject": "high_school_mathematics", "multiplier": 1.2, "percentage": 0.1, "num": 135, "correct": 26, "acc": 0.1925925925925926}
+{"mode": "GV_intersect", "subject": "high_school_physics", "multiplier": 1.3, "percentage": 0.1, "num": 76, "correct": 14, "acc": 0.18421052631578946}
+{"mode": "GV_intersect", "subject": "high_school_statistics", "multiplier": 1.2, "percentage": 0.25, "num": 108, "correct": 13, "acc": 0.12037037037037036}
+{"mode": "GV_intersect", "subject": "machine_learning", "multiplier": 1.5, "percentage": 0.1, "num": 56, "correct": 13, "acc": 0.23214285714285715}
+
+
+
+
+
+
+### NLP tasks{"task": "task242_tweetqa_classification.json", "shot": 0, "num": 2997, "correct": 3, "acc": 0.001001001001001001}
+{"task": "task242_tweetqa_classification.json", "shot": 5, "num": 2997, "correct": 2514, "acc": 0.8388388388388388}
+{"task": "task274_overruling_legal_classification.json", "shot": 0, "num": 1198, "correct": 5, "acc": 0.004173622704507512}
+{"task": "task274_overruling_legal_classification.json", "shot": 5, "num": 1198, "correct": 908, "acc": 0.7579298831385642}
+{"task": "task329_gap_classification.json", "shot": 0, "num": 2225, "correct": 0, "acc": 0.0}
+{"task": "task329_gap_classification.json", "shot": 5, "num": 2225, "correct": 1055, "acc": 0.47415730337078654}
+
+
+
+{"mode": "GV_trace4", "subject": "formal_logic", "multiplier": 1.1, "percentage": 0.1, "num": 63, "correct": 17, "acc": 0.2698412698412698}
+{"mode": "GV_trace4", "subject": "high_school_european_history", "multiplier": 1.1, "percentage": 0.05, "num": 83, "correct": 40, "acc": 0.4819277108433735}
+{"mode": "GV_trace4", "subject": "high_school_us_history", "multiplier": 1.2, "percentage": 0.15, "num": 102, "correct": 52, "acc": 0.5098039215686274}
+{"mode": "GV_trace4", "subject": "high_school_world_history", "multiplier": 1.3, "percentage": 0.3, "num": 119, "correct": 47, "acc": 0.3949579831932773}
+{"mode": "GV_trace4", "subject": "international_law", "multiplier": 1.2, "percentage": 0.45, "num": 61, "correct": 24, "acc": 0.39344262295081966}
+{"mode": "GV_trace4", "subject": "jurisprudence", "multiplier": 1.1, "percentage": 0.15, "num": 54, "correct": 29, "acc": 0.5370370370370371}
+{"mode": "GV_trace4", "subject": "logical_fallacies", "multiplier": 1.2, "percentage": 0.15, "num": 82, "correct": 31, "acc": 0.3780487804878049}
+{"mode": "GV_trace4", "subject": "moral_disputes", "multiplier": 1.1, "percentage": 0.5, "num": 173, "correct": 71, "acc": 0.41040462427745666}
+{"mode": "GV_trace4", "subject": "moral_scenarios", "multiplier": 1.1, "percentage": 0.05, "num": 448, "correct": 109, "acc": 0.24330357142857142}
+{"mode": "GV_trace4", "subject": "philosophy", "multiplier": 1.1, "percentage": 0.25, "num": 156, "correct": 65, "acc": 0.4166666666666667}
+{"mode": "GV_trace4", "subject": "prehistory", "multiplier": 1.1, "percentage": 0.5, "num": 162, "correct": 63, "acc": 0.3888888888888889}
+{"mode": "GV_trace4", "subject": "professional_law", "multiplier": 1.3, "percentage": 0.15, "num": 767, "correct": 217, "acc": 0.28292046936114734}
+{"mode": "GV_trace4", "subject": "world_religions", "multiplier": 1.1, "percentage": 0.15, "num": 86, "correct": 46, "acc": 0.5348837209302325}
+{"mode": "GV_trace4", "subject": "anatomy", "multiplier": 1.1, "percentage": 0.05, "num": 68, "correct": 31, "acc": 0.45588235294117646}
+{"mode": "GV_trace4", "subject": "business_ethics", "multiplier": 1.2, "percentage": 0.1, "num": 50, "correct": 18, "acc": 0.36}
+{"mode": "GV_trace4", "subject": "clinical_knowledge", "multiplier": 1.2, "percentage": 0.5, "num": 133, "correct": 58, "acc": 0.43609022556390975}
+{"mode": "GV_trace4", "subject": "college_medicine", "multiplier": 1.2, "percentage": 0.05, "num": 87, "correct": 28, "acc": 0.3218390804597701}
+{"mode": "GV_trace4", "subject": "global_facts", "multiplier": 1.2, "percentage": 0.5, "num": 50, "correct": 18, "acc": 0.36}
+{"mode": "GV_trace4", "subject": "human_aging", "multiplier": 1.2, "percentage": 0.05, "num": 112, "correct": 55, "acc": 0.49107142857142855}
+{"mode": "GV_trace4", "subject": "management", "multiplier": 1.1, "percentage": 0.15, "num": 52, "correct": 19, "acc": 0.36538461538461536}
+{"mode": "GV_trace4", "subject": "marketing", "multiplier": 1.1, "percentage": 0.05, "num": 117, "correct": 71, "acc": 0.6068376068376068}
+{"mode": "GV_trace4", "subject": "medical_genetics", "multiplier": 1.1, "percentage": 0.05, "num": 50, "correct": 21, "acc": 0.42}
+{"mode": "GV_trace4", "subject": "miscellaneous", "multiplier": 1.1, "percentage": 0.05, "num": 392, "correct": 232, "acc": 0.5918367346938775}
+{"mode": "GV_trace4", "subject": "nutrition", "multiplier": 1.1, "percentage": 0.35, "num": 153, "correct": 50, "acc": 0.32679738562091504}
+{"mode": "GV_trace4", "subject": "professional_accounting", "multiplier": 1.1, "percentage": 0.05, "num": 141, "correct": 43, "acc": 0.3049645390070922}
+{"mode": "GV_trace4", "subject": "professional_medicine", "multiplier": 1.1, "percentage": 0.45, "num": 136, "correct": 38, "acc": 0.27941176470588236}
+{"mode": "GV_trace4", "subject": "virology", "multiplier": 1.1, "percentage": 0.05, "num": 83, "correct": 27, "acc": 0.3253012048192771}
+{"mode": "GV_trace4", "subject": "econometrics", "multiplier": 1.3, "percentage": 0.05, "num": 57, "correct": 16, "acc": 0.2807017543859649}
+{"mode": "GV_trace4", "subject": "high_school_geography", "multiplier": 1.3, "percentage": 0.05, "num": 99, "correct": 40, "acc": 0.40404040404040403}
+{"mode": "GV_trace4", "subject": "high_school_government_and_politics", "multiplier": 1.1, "percentage": 0.05, "num": 97, "correct": 51, "acc": 0.5257731958762887}
+{"mode": "GV_trace4", "subject": "high_school_macroeconomics", "multiplier": 1.1, "percentage": 0.3, "num": 195, "correct": 51, "acc": 0.26153846153846155}
+{"mode": "GV_trace4", "subject": "high_school_microeconomics", "multiplier": 1.1, "percentage": 0.15, "num": 119, "correct": 36, "acc": 0.3025210084033613}
+{"mode": "GV_trace4", "subject": "high_school_psychology", "multiplier": 1.1, "percentage": 0.45, "num": 273, "correct": 126, "acc": 0.46153846153846156}
+{"mode": "GV_trace4", "subject": "human_sexuality", "multiplier": 1.8, "percentage": 0.05, "num": 66, "correct": 25, "acc": 0.3787878787878788}
+{"mode": "GV_trace4", "subject": "professional_psychology", "multiplier": 1.1, "percentage": 0.45, "num": 306, "correct": 108, "acc": 0.35294117647058826}
+{"mode": "GV_trace4", "subject": "public_relations", "multiplier": 1.4, "percentage": 0.05, "num": 55, "correct": 29, "acc": 0.5272727272727272}
+{"mode": "GV_trace4", "subject": "security_studies", "multiplier": 1.1, "percentage": 0.05, "num": 123, "correct": 33, "acc": 0.2682926829268293}
+{"mode": "GV_trace4", "subject": "sociology", "multiplier": 1.1, "percentage": 0.35, "num": 101, "correct": 48, "acc": 0.4752475247524752}
+{"mode": "GV_trace4", "subject": "us_foreign_policy", "multiplier": 1.2, "percentage": 0.35, "num": 50, "correct": 24, "acc": 0.48}
+{"mode": "GV_trace4", "subject": "abstract_algebra", "multiplier": 1.3, "percentage": 0.2, "num": 50, "correct": 13, "acc": 0.26}
+{"mode": "GV_trace4", "subject": "astronomy", "multiplier": 1.1, "percentage": 0.5, "num": 76, "correct": 26, "acc": 0.34210526315789475}
+{"mode": "GV_trace4", "subject": "college_biology", "multiplier": 1.2, "percentage": 0.5, "num": 72, "correct": 27, "acc": 0.375}
+{"mode": "GV_trace4", "subject": "college_chemistry", "multiplier": 1.1, "percentage": 0.05, "num": 50, "correct": 6, "acc": 0.12}
+{"mode": "GV_trace4", "subject": "college_computer_science", "multiplier": 1.3, "percentage": 0.05, "num": 50, "correct": 14, "acc": 0.28}
+{"mode": "GV_trace4", "subject": "college_mathematics", "multiplier": 1.3, "percentage": 0.3, "num": 50, "correct": 14, "acc": 0.28}
+{"mode": "GV_trace4", "subject": "college_physics", "multiplier": 1.1, "percentage": 0.4, "num": 51, "correct": 7, "acc": 0.13725490196078433}
+{"mode": "GV_trace4", "subject": "computer_security", "multiplier": 1.1, "percentage": 0.35, "num": 50, "correct": 24, "acc": 0.48}
+{"mode": "GV_trace4", "subject": "conceptual_physics", "multiplier": 1.5, "percentage": 0.4, "num": 118, "correct": 38, "acc": 0.3220338983050847}
+{"mode": "GV_trace4", "subject": "electrical_engineering", "multiplier": 1.4, "percentage": 0.05, "num": 73, "correct": 19, "acc": 0.2602739726027397}
+{"mode": "GV_trace4", "subject": "elementary_mathematics", "multiplier": 1.2, "percentage": 0.05, "num": 189, "correct": 44, "acc": 0.2328042328042328}
+{"mode": "GV_trace4", "subject": "high_school_biology", "multiplier": 1.2, "percentage": 0.5, "num": 155, "correct": 59, "acc": 0.38064516129032255}
+{"mode": "GV_trace4", "subject": "high_school_chemistry", "multiplier": 1.1, "percentage": 0.4, "num": 102, "correct": 24, "acc": 0.23529411764705882}
+{"mode": "GV_trace4", "subject": "high_school_computer_science", "multiplier": 1.1, "percentage": 0.05, "num": 50, "correct": 14, "acc": 0.28}
+{"mode": "GV_trace4", "subject": "high_school_mathematics", "multiplier": 1.2, "percentage": 0.2, "num": 135, "correct": 32, "acc": 0.23703703703703705}
+{"mode": "GV_trace4", "subject": "high_school_physics", "multiplier": 1.2, "percentage": 0.05, "num": 76, "correct": 14, "acc": 0.18421052631578946}
+{"mode": "GV_trace4", "subject": "high_school_statistics", "multiplier": 1.1, "percentage": 0.5, "num": 108, "correct": 13, "acc": 0.12037037037037036}
+{"mode": "GV_trace4", "subject": "machine_learning", "multiplier": 1.3, "percentage": 0.05, "num": 56, "correct": 18, "acc": 0.32142857142857145}
+
+
+
+{"mod": "GV_trace", "task": "task274", "multiplier": 1.1, "percentage": 0.1, "num": 1198, "correct": 22, "acc": 0.018363939899833055}
+{"mod": "GV_trace", "task": "task242", "multiplier": 1.1, "percentage": 0.1, "num": 2997, "correct": 5, "acc": 0.001668335001668335}
