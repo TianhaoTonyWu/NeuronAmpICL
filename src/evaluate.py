@@ -12,11 +12,11 @@ import pickle
 
 # Parse command-line arguments
 parser = argparse.ArgumentParser()
-parser.add_argument("-m", "--model", type=str, default="/home/wth/model")
+parser.add_argument("-m", "--model", type=str, default="/root/autodl-tmp/model")
 
 parser.add_argument("-x", "--multiplier", type=float, default=1.0)
-parser.add_argument("-mask", "--mask_file", type=str, default="/home/wth/few_vs_zero/data/gsm/activation_mask/GV/0.1p.pth")
-parser.add_argument("-in", "--token_file", type=str, default="/home/wth/few_vs_zero/data/gsm/token0/test_5.pkl")
+parser.add_argument("-mask", "--mask_file", type=str, default="/root/few_vs_zero/data/gsm/activation_mask/GV/0.1p.pth")
+parser.add_argument("-in", "--token_file", type=str, default="/root/few_vs_zero/data/gsm/token0/test_5.pkl")
 parser.add_argument("-d", "--device", type=str, default="0")
 args = parser.parse_args()
 
@@ -29,10 +29,10 @@ hasMask = multiplier != 1.0
 token_path = args.token_file
 mask_path = args.mask_file if hasMask else None
 
-dataset = token_path.split("/")[5]
+dataset = token_path.split("/")[4]
 assert dataset in ["gsm", "mmlu", "sni"]
-# /home/wth/few_vs_zero/data/sni/token/task242/test_0.pkl
-task_name = token_path.split("/")[7] if dataset in ["sni", "mmlu"] else "ALL"
+# /root/few_vs_zero/data/sni/token/task242/test_0.pkl
+task_name = token_path.split("/")[6] if dataset in ["sni", "mmlu"] else "ALL"
 mod =  mask_path.split("/")[-2] if hasMask else "None"
 assert mod in ["GV", "GV_last", "LAPE", "GV_final", "Random", "None"]
 
@@ -104,7 +104,7 @@ if hasMask:
 outputs = model.generate(prompt_token_ids=test_token, sampling_params=SamplingParams(max_tokens=max_toks,temperature=0,top_p=1,stop="[INST]"))
 
 
-output_folder = f"/home/wth/few_vs_zero/results/{dataset}/{task_name}/"
+output_folder = f"/root/few_vs_zero/results/{dataset}/{task_name}/"
 os.makedirs(output_folder, exist_ok=True)
 
 if hasMask:
@@ -119,7 +119,7 @@ output_file = output_folder + output_file
 num, correct, accuracy= evaluate_func(output_file=output_file, tokenizer_name=args.model, labels=labels, outputs=outputs)
    
 # record summary
-with open(f"/home/wth/few_vs_zero/new_result_{today}.jsonl", "a") as f:
+with open(f"/root/few_vs_zero/new_result_{today}.jsonl", "a") as f:
     f.write(json.dumps(
         {
             "mod": mod,

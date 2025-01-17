@@ -43,3 +43,17 @@
 
 
 ### 1-shot
+{"token path": "/root/few_vs_zero/data/sni/k1token/task242/tp4/val_0.pkl", "mask path": "/root/few_vs_zero/data/sni/k1/task242/activation_mask/GV_last", "Mode": "GV_last", "Dataset": "sni", "Task": "task242", "Multiplier": 1.4, "Percentage": 0.5, "acc": 0.12112112112112113}
+{"token path": "/root/few_vs_zero/data/sni/k3token/task242/tp4/val_0.pkl", "mask path": "/root/few_vs_zero/data/sni/k3/task242/activation_mask/GV_last", "Mode": "GV_last", "Dataset": "sni", "Task": "task242", "Multiplier": 1.6, "Percentage": 0.25, "acc": 0.2645979312645979}
+{"token path": "/root/few_vs_zero/data/sni/k7token/task242/tp4/val_0.pkl", "mask path": "/root/few_vs_zero/data/sni/k7/task242/activation_mask/GV_last", "Mode": "GV_last", "Dataset": "sni", "Task": "task242", "Multiplier": 1.5, "Percentage": 0.3, "acc": 0.2882882882882883}
+{"token path": "/root/few_vs_zero/data/sni/k9token/task242/tp4/val_0.pkl", "mask path": "/root/few_vs_zero/data/sni/k9/task242/activation_mask/GV_last", "Mode": "GV_last", "Dataset": "sni", "Task": "task242", "Multiplier": 1.6, "Percentage": 0.3, "acc": 0.3670337003670337}
+
+{"token path": "/root/few_vs_zero/data/sni/k1token/task274/tp4/val_0.pkl", "mask path": "/root/few_vs_zero/data/sni/k1/task274/activation_mask/GV_last", "Mode": "GV_last", "Dataset": "sni", "Task": "task274", "Multiplier": 1.9, "Percentage": 0.1, "acc": 0.22639933166248954}
+{"token path": "/root/few_vs_zero/data/sni/k3token/task274/tp4/val_0.pkl", "mask path": "/root/few_vs_zero/data/sni/k3/task274/activation_mask/GV_last", "Mode": "GV_last", "Dataset": "sni", "Task": "task274", "Multiplier": 1.9, "Percentage": 0.25, "acc": 0.35004177109440265}
+{"token path": "/root/few_vs_zero/data/sni/k7token/task274/tp4/val_0.pkl", "mask path": "/root/few_vs_zero/data/sni/k7/task274/activation_mask/GV_last", "Mode": "GV_last", "Dataset": "sni", "Task": "task274", "Multiplier": 1.6, "Percentage": 0.35, "acc": 0.24477861319966582}
+{"token path": "/root/few_vs_zero/data/sni/k9token/task274/tp4/val_0.pkl", "mask path": "/root/few_vs_zero/data/sni/k9/task274/activation_mask/GV_last", "Mode": "GV_last", "Dataset": "sni", "Task": "task274", "Multiplier": 1.8, "Percentage": 0.4, "acc": 0.3032581453634085}
+
+{"token path": "/root/few_vs_zero/data/sni/k1token/task1447/tp4/val_0.pkl", "mask path": "/root/few_vs_zero/data/sni/k1/task1447/activation_mask/GV_last", "Mode": "GV_last", "Dataset": "sni", "Task": "task1447", "Multiplier": 1.8, "Percentage": 0.05, "acc": 0.07947019867549669}
+{"token path": "/root/few_vs_zero/data/sni/k3token/task1447/tp4/val_0.pkl", "mask path": "/root/few_vs_zero/data/sni/k3/task1447/activation_mask/GV_last", "Mode": "GV_last", "Dataset": "sni", "Task": "task1447", "Multiplier": 2.2, "Percentage": 0.05, "acc": 0.6629874908020603}
+{"token path": "/root/few_vs_zero/data/sni/k7token/task1447/tp4/val_0.pkl", "mask path": "/root/few_vs_zero/data/sni/k7/task1447/activation_mask/GV_last", "Mode": "GV_last", "Dataset": "sni", "Task": "task1447", "Multiplier": 1.9, "Percentage": 0.15, "acc": 0.4282560706401766}
+{"token path": "/root/few_vs_zero/data/sni/k9token/task1447/tp4/val_0.pkl", "mask path": "/root/few_vs_zero/data/sni/k9/task1447/activation_mask/GV_last", "Mode": "GV_last", "Dataset": "sni", "Task": "task1447", "Multiplier": 2.0, "Percentage": 0.05, "acc": 0.2766740250183959}

@@ -13,10 +13,10 @@ from filelock import FileLock
 
 # Parse command-line arguments
 parser = argparse.ArgumentParser()
-parser.add_argument("-m", "--model", type=str, default="/root/model")
-parser.add_argument("-in", "--input_file", type=str, default="/root/few_vs_zero/data/gsm/token0/val_0.pkl")
-parser.add_argument("-mp", "--mask_dir", type=str, default="/root/few_vs_zero/data/gsm/activation_mask/GV")
-parser.add_argument("-d", "--device", type=str, default="0,1,2,3")
+parser.add_argument("-m", "--model", type=str, default="/root/autodl-tmp/model")
+parser.add_argument("-in", "--input_file", type=str, default="/root/few_vs_zero/data/sni/k1token/task274/tp4/val_0.pkl")
+parser.add_argument("-mp", "--mask_dir", type=str, default="/root/few_vs_zero/data/sni/k1/task274/activation_mask/GV_last")
+parser.add_argument("-d", "--device", type=str, default="0,1")
 args = parser.parse_args()
 
 # Set system variables
@@ -27,10 +27,13 @@ token_path = args.input_file
 mask_dir = args.mask_dir
 assert os.path.isdir(mask_dir) 
 
-dataset = token_path.split("/")[5]
+
+print(token_path.split("/"))
+# TODO: ignore path out of few_vs_zero. (USE relative path)
+dataset = token_path.split("/")[4]
 assert dataset in ["gsm", "mmlu", "sni"]
 
-task_name = token_path.split("/")[7] if dataset in ["sni", "mmlu"] else "ALL"
+task_name = token_path.split("/")[6] if dataset in ["sni", "mmlu"] else "ALL"
 
 mod =  mask_dir.split("/")[-1]
 assert mod in ["GV", "GV_last", "GV_final", "LAPE"]
@@ -133,6 +136,8 @@ lock_file_name = f"{final_out_file}.lock"
 with FileLock(lock_file_name):
     with open(final_out_file, "a", encoding="utf8") as f:
         f.write(json.dumps({
+                            "token path": token_path,
+                            "mask path" : mask_dir,
                             "Mode" : mod,
                             "Dataset" : dataset,
                             "Task" : task_name,
